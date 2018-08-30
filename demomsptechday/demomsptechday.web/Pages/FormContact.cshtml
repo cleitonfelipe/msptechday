@@ -1,0 +1,29 @@
+﻿@page
+@model demomsptechday.web.Pages.FormContactModel
+@{
+    ViewData["Title"] = "FormContact";
+    Layout = "~/Pages/_Layout.cshtml";
+}
+
+<h2>Form Contact</h2>
+<div class="form-group">
+    <div>
+        <span>Nome</span>
+        <input type="text" class="form-control input-sm" />
+    </div>
+
+    <div>
+        <span>E-mail</span>
+        <input type="email" class="form-control input-sm" />
+    </div>
+
+    <div>
+        <span>Fone</span>
+        <input type="tel" class="form-control input-sm" />
+    </div>
+    <br />
+    <div>
+        <input type="button" value="Enviar" class="form-control btn-primary" />
+    </div>
+
+</div>
