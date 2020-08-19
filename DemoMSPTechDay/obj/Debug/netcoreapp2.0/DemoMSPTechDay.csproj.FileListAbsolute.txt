@@ -1,0 +1,12 @@
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\bin\Debug\netcoreapp2.0\DemoMSPTechDay.deps.json
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\bin\Debug\netcoreapp2.0\DemoMSPTechDay.runtimeconfig.json
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\bin\Debug\netcoreapp2.0\DemoMSPTechDay.runtimeconfig.dev.json
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\bin\Debug\netcoreapp2.0\DemoMSPTechDay.dll
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\bin\Debug\netcoreapp2.0\DemoMSPTechDay.pdb
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.csprojAssemblyReference.cache
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.csproj.CoreCompileInputs.cache
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.AssemblyInfoInputs.cache
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.AssemblyInfo.cs
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.dll
+C:\Users\omehe\source\repos\DemoMSPTechDay\DemoMSPTechDay\obj\Debug\netcoreapp2.0\DemoMSPTechDay.pdb
